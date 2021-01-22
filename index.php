@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>PELL DOWNLOADER</title>
-    <meta name="description" content="PELL DOWNLOADER - FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE MP3 / MP4 DOWNLOADER" />
+    <meta name="description" content="PELL DOWNLOADER - TIKTOK NO WM, FACEBOOK, TWITTER, INSTAGRAM, YOUTUBE MP3 / MP4 DOWNLOADER" />
     <meta name="author" content="PELL DOWNLOADER">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="https://pell-downloader.herokuapp.com/ico.png">
